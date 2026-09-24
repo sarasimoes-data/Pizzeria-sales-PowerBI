@@ -1,5 +1,3 @@
-# Pizzeria-sales-PowerBI
-
 # Pizzeria Italy — End-to-End Business Analytics Dashboard (Power BI)
 Interactive Power BI analytics solution developed for **Pizzeria Italy** (New Jersey, USA) as part of the *Business Analytics & Data Culture* course in the **Master's in Data Analytics and Decision Support Systems** at Coimbra Business School | ISCAC.
 The project translates raw operational and transactional data into actionable insights for the restaurant general manager, optimizing revenue, operational capacity, and menu engineering.
